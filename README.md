@@ -13,42 +13,48 @@ The following visuals offer a transparent representation of the application's ca
 
 
 ## Features
-User Authentication: Secure login via Auth0.
-Property Listings: Browse and search available properties.
-Property Upload: Users can upload their properties for sale.
-Dynamic UI: Utilizes Mantine UI for interactive components.
-Efficient Data Fetching: Managed by React Query.
-Robust Database: Prisma with MongoDB.
 
+- **User Authentication**: Secure login via Auth0.
+- **Property Listings**: Browse and search available properties.
+- **Property Upload**: Users can upload their properties for sale.
+- **Dynamic UI**: Utilizes Mantine UI for interactive components.
+- **Efficient Data Fetching**: Managed by React Query.
+- **Robust Database**: Prisma with MongoDB.
 
 ## Prerequisites
-HTML, CSS and JavaScript
-Node.js
-Express JS
-React
-MongoDB
-Auth0 Account
+
+- HTML, CSS and JavaScript
+- Node.js
+- Express JS
+- React
+- MongoDB
+- Auth0 Account
 
 ## Running the Project
-Start the frontend:
 
-cd client
-npm run dev
+1. **Start the frontend:**
+   ```bash
+   cd client
+   npm run dev
+   ```
 
+2. **Start the backend:**
+   ```bash
+   cd ../server
+   npm start
+   ```
+   
 
-Start the backend:
+## Deployment
 
-cd ../server
-npm start
-Deployment
-Frontend
+### Frontend
 
-The frontend is deployed on vercel.
+The frontend is deployed on vercel. You can visit it at [HousingAtEase on Vercel](https://real-estate-listing-project-ten.vercel.app/).
 
-You can visit it at [HousingAtEase on Vercel]([url](https://real-estate-listing-project-ten.vercel.app/)).
+### Backend
 
-Backend
 The backend is also deployed using vercel, a cloud application hosting platform for developers.
 
-Contact
-For any questions or inquiries, please contact bdevansh173@gmail.com.
+## Contact
+
+For any questions or inquiries, please contact [aryan153sharma@gmail.com](mailto:bdevansh173@gmail.com).
