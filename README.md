@@ -57,4 +57,4 @@ The backend is also deployed using vercel, a cloud application hosting platform 
 
 ## Contact
 
-For any questions or inquiries, please contact [bdevansh173@gmail.com](mailto:vasutyagi2003@gmail.com).
+For any questions or inquiries, please contact [vasutyagi2003@gmail.com](mailto:vasutyagi2003@gmail.com).
